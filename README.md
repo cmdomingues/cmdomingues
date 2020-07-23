@@ -1,6 +1,6 @@
-## Hi , Its me 👋
+## Hi , It's me 👋
 
-### Maicon C. Domingues trabalha desde 2006 com tecnologia, como estagiário, técnico em informática, programador (jr, pleno, sênior), coordenador de desenvolvimento, coordenador de suporte, gerente de projetos e professor.
+ Maicon C. Domingues trabalha desde 2006 com tecnologia, como estagiário, técnico em informática, programador (jr, pleno, sênior), coordenador de desenvolvimento, coordenador de suporte, gerente de projetos e professor.
 
 Formado em gestão de tecnologia, MBA em gestão de projetos, com certificação internacional de Scrum
 
