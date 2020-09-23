@@ -8,6 +8,6 @@ Com vivências no setor público, empresas de pequeno porte e multinacionais. Tr
 
 Participação em vários projetos de grande porte ( Walmart, CSN, BTG, etc.) como também professor na Escola QI e Senac RS.
 
-Atuando atualmente como Gerente de Projeto da Rede Agafarma e como empreendedor digital na Bahdev.
+Atuando atualmente como Gerente de Projeto da Rede Agafarma 
 
 Resumindo um apaixonado por tecnologia.
